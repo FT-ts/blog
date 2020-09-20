@@ -3,7 +3,7 @@
 - 因为平时翻看的文章资料都比较散，所以创个仓库来将所有收藏的内容的资源集中在这里，作为知识管理工具来用。
 - 内容（均为转载）为一些资源/文章合集，包括但不限于前端、后端、客户端等。
 
-## [文章](https://github.com/FT-ts/blog/article/index.md)
+## [文章](https://github.com/FT-ts/blog/blob/master/article/index.md)
 
 > **前端**
 >
@@ -48,7 +48,7 @@
 > - [设计模式](https://github.com/guanguans/design-patterns-for-humans-cn)
 > - [leetcode题解](https://github.com/MisterBooo/LeetCodeAnimation)
 
-## [练习项目](https://github.com/FT-ts/blog/project/index.md)
+## [练习项目](https://github.com/FT-ts/blog/blob/master/project/index.md)
 
 > **前端**
 >
@@ -136,7 +136,6 @@
 > | [doyoudo-资源导航](https://www.doyoudo.com/resources) | [少数派](https://sspai.com/?utm_source=infinitynewtab) | [网易蜗牛读书](https://du.163.com/)    | [微信读书](https://weread.qq.com/)          | [值得买](https://www.smzdm.com/)  |
 >
 > 
-
 
 
 
