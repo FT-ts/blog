@@ -1,7 +1,13 @@
 # 仓库简介
+>**说明**
+> - 因为平时翻看的文章资料都比较散，所以创个仓库来将所有收藏的内容的资源集中在这里，作为知识管理工具来用。
+> - 内容（均为转载）为一些资源/文章合集，包括但不限于前端、后端、客户端等。
 
-- 因为平时翻看的文章资料都比较散，所以创个仓库来将所有收藏的内容的资源集中在这里，作为知识管理工具来用。
-- 内容（均为转载）为一些资源/文章合集，包括但不限于前端、后端、客户端等。
+>**分类说明**
+> - 文章-------有价值和干货的技术文章，下面有对应小标题，如果没有自行创建
+> - 练习项目---用来学习技术的项目
+> - 技术文档---比较好用第三方类库或者技术文档
+> - 其他-------技术之外的一些资源
 
 ## [文章](https://github.com/FT-ts/blog/blob/master/article/index.md)
 
@@ -48,6 +54,10 @@
 > - [设计模式](https://github.com/guanguans/design-patterns-for-humans-cn)
 > - [leetcode题解](https://github.com/MisterBooo/LeetCodeAnimation)
 
+> ### [更多](https://github.com/FT-ts/blog/blob/master/article/index.md)
+
+
+
 ## [练习项目](https://github.com/FT-ts/blog/blob/master/project/index.md)
 
 > **前端**
@@ -80,7 +90,10 @@
 > - [Vue+Koa-H5制作工具](https://github.com/huangwei9527/quark-h5)
 > - [super-tiny-compiler-编译器学习](https://github.com/jamiebuilds/the-super-tiny-compiler)
 
-## 技术文档
+> ### [更多](https://github.com/FT-ts/blog/blob/master/project/index.md)
+
+
+## [技术文档](https://github.com/FT-ts/blog/blob/master/technicalDocumentation/index.md)
 
 - [v-charts](https://v-charts.js.org/#/pie)
 - [手绘图表](https://github.com/timqian/chart.xkcd)
@@ -96,8 +109,9 @@
 - [dataV-可视化组件库](http://datav.jiaminghi.com/)
 - [声享-在线制作ppt](https://ppt.baomitu.com/)
 - [md文件语法](http://xianbai.me/learn-md/index.html)
+> ### [更多](https://github.com/FT-ts/blog/blob/master/technicalDocumentation/index.md)
 
-## 其他
+## [其他](https://github.com/FT-ts/blog/blob/master/other/index.md)
 
 - [北上广深租房要点](https://github.com/soulteary/tenant-point)
 - [Github中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
@@ -106,6 +120,9 @@
 - [计算机专业课学习笔记](https://github.com/SSHeRun/CS-Xmind-Note)
 - [Google面试指南](https://github.com/xitu/google-interview-university)
 - [家用网折腾note](https://github.com/soulteary/Home-Network-Note)
+
+> ### [更多](https://github.com/FT-ts/blog/blob/master/other/index.md)
+
 
 ## 团队/博客/社区
 
