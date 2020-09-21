@@ -28,6 +28,7 @@
 > - [解读新一代 Web 性能体验和质量指标](https://mp.weixin.qq.com/s?__biz=Mzg2NDAzMjE5NQ==&mid=2247485739&idx=1&sn=7c51f0df716eafce959eb68f9370a3d3&chksm=ce6ecd87f91944918d567d4ce9db298bcf8a9555e944789fa67ef880ca960709d2755cce6aef&mpshare=1&scene=24&srcid=&sharer_sharetime=1590465945437&sharer_shareid=9b75eb39a20dc3c7646f221450aa88c0&key=4cf40c946f4d610c621c19d3a7cf38996518b8f8103c515acb419622a4469f18054f60cad74f5c1ef09fa9d9b79fe31fdea60fbe0c64666a1c42fa7218fb175a8d7ed6ae24efc9aa07e4f841c6a4dca78e533c07a3906c06bfcea0c4efd0371682b7a8ab43e3dce226da895b27034ff4d4cc513a3cb5dc035c27b45f17804fba&ascene=14&uin=MjUzMjM4MTgyOQ%3D%3D&devicetype=Windows+8+x64&version=62090529&lang=zh_CN&exportkey=A1f%2BI%2B3lkGJUtOMMnfobbZ4%3D&pass_ticket=ktxmAwcxinuhEbyg2Z9n6EIP76D7BiGN44j6HloLSSIjfqa5xaD5a7Qw1dgHdgeX&wx_header=0)
 > - [实现简易编译器](https://mp.weixin.qq.com/s?__biz=MzIxNjgwMDIzMA==&mid=2247485438&idx=1&sn=30aaa0ab30161209b5575c97307f862b&chksm=9782c977a0f54061503ca7e908a80f38b28327adcbe57c526e40ba756de02b9b6f4a866e403b&mpshare=1&scene=24&srcid=&sharer_sharetime=1588250029783&sharer_shareid=9b75eb39a20dc3c7646f221450aa88c0&key=9d3ca08bb5be9f04ecd24aa647d2e8330af78d701b0caf025efd24a6cd4ae2bc5fca52a515c2159bdd122a77df3f838c1e4651fe0c66adf2de34c41207ac80ebcf31d2721093a401638dcde010d766f996eba8795f3ae47a52da1a5cf50989820d20dabf77381caccb78b8b573e18dcf951656b56e60b0b173485a8a650c3f4a&ascene=14&uin=MjUzMjM4MTgyOQ%3D%3D&devicetype=Windows+8+x64&version=62090529&lang=zh_CN&exportkey=A%2BHfvB1kucMjdI0zgbSQq3o%3D&pass_ticket=ktxmAwcxinuhEbyg2Z9n6EIP76D7BiGN44j6HloLSSIjfqa5xaD5a7Qw1dgHdgeX&wx_header=0)
 > - [HTTP基础知识](https://mp.weixin.qq.com/s?__biz=MzU4ODI1MjA3NQ==&mid=2247485321&idx=2&sn=ac551d41535be46d866e98d956cbff89&chksm=fdded14dcaa9585bbc4bb0ca9f469da201f1d7689fd4f94f235415113b4ada778cda9effaddb&mpshare=1&scene=24&srcid=&sharer_sharetime=1583715893515&sharer_shareid=9b75eb39a20dc3c7646f221450aa88c0&key=10b5f81a683662236b478724173ce44e2db185962663f5e7753584a39f64778b671ea8eea067460a9eb076369392f7e2200c15346b5b243a433587827b1d150f8db31ff0141255e10517c8c7da18ee72c88c723cb6b33bbbbaa1da7104ba90243127b8f4c20297abe25c81ddf5063b95751db19f3f305449ed1139510302d6e8&ascene=14&uin=MjUzMjM4MTgyOQ%3D%3D&devicetype=Windows+8+x64&version=62090529&lang=zh_CN&exportkey=A%2FK%2FcDDWdoX9FRBU3HKXl9M%3D&pass_ticket=ktxmAwcxinuhEbyg2Z9n6EIP76D7BiGN44j6HloLSSIjfqa5xaD5a7Qw1dgHdgeX&wx_header=0)
+> - [一文读懂 TypeScript 泛型及应用](https://juejin.im/post/6844904184894980104)
 
 > **运维**/后端
 >
@@ -35,6 +36,8 @@
 > - [鸟哥的Linux私房菜](http://cn.linux.vbird.org/linux_basic/Mandrake9.0/mandrake9.0.php)
 > - [Nginx指南](https://github.com/jaywcjlove/nginx-tutorial)
 > - [后端技术图谱](https://github.com/xingshaocheng/architect-awesome)
+> - [Go101](https://gfw.go101.org/article/101.html)
+> - [Go夜读](https://talkgo.org/)
 
 > **算法**/数据结构/设计模式/网络
 >
