@@ -38,6 +38,8 @@
 > - [后端技术图谱](https://github.com/xingshaocheng/architect-awesome)
 > - [Go101](https://gfw.go101.org/article/101.html)
 > - [Go夜读](https://talkgo.org/)
+> - [Go学习之路](https://github.com/talkgo/read)
+
 
 > **算法**/数据结构/设计模式/网络
 >
