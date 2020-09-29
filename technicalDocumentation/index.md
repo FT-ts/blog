@@ -1,1 +1,16 @@
 # 技术文档
+- [v-charts](https://v-charts.js.org/#/pie)
+- [手绘图表](https://github.com/timqian/chart.xkcd)
+- [storybook](https://github.com/storybookjs/storybook)：UI库开发工具
+- [react-style-guide](https://github.com/styleguidist/react-styleguidist)
+- [vue-style-guide](https://github.com/vue-styleguidist/vue-styleguidist)
+- [marked-解析md文件库](https://github.com/markedjs/marked)
+- [文本编辑器](https://github.com/jaredreich/pell)
+- [express校验中间件](https://github.com/express-validator/express-validator)
+- [chimee-360视频播放器组件](http://chimee.org/docs/index.html)
+- [umi](https://umijs.org/zh-CN)
+- [网易云api for node](https://binaryify.github.io/NeteaseCloudMusicApi/#/)
+- [dataV-可视化组件库](http://datav.jiaminghi.com/)
+- [声享-在线制作ppt](https://ppt.baomitu.com/)
+- [md文件语法](http://xianbai.me/learn-md/index.html)
+- [js->ppt](https://gitbrent.github.io/PptxGenJS/)
