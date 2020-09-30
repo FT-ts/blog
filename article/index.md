@@ -40,6 +40,7 @@
 > - [Go101](https://gfw.go101.org/article/101.html)
 > - [Go夜读](https://talkgo.org/)
 > - [Go学习之路](https://github.com/talkgo/read)
+> - [GitBook](http://gitbook.liuhui998.com/index.html)
 
 
 > **算法**/数据结构/设计模式/网络
