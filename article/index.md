@@ -49,3 +49,4 @@
 > - [计算机数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
 > - [设计模式](https://github.com/guanguans/design-patterns-for-humans-cn)
 > - [leetcode题解](https://github.com/MisterBooo/LeetCodeAnimation)
+> - [算法小抄](https://labuladong.gitbook.io/algo/)
