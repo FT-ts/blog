@@ -14,3 +14,4 @@
 - [声享-在线制作ppt](https://ppt.baomitu.com/)
 - [md文件语法](http://xianbai.me/learn-md/index.html)
 - [js->ppt](https://gitbrent.github.io/PptxGenJS/)
+- [React技术揭秘](https://react.iamkasong.com/)
