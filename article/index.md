@@ -30,6 +30,8 @@
 > - [HTTP基础知识](https://mp.weixin.qq.com/s?__biz=MzU4ODI1MjA3NQ==&mid=2247485321&idx=2&sn=ac551d41535be46d866e98d956cbff89&chksm=fdded14dcaa9585bbc4bb0ca9f469da201f1d7689fd4f94f235415113b4ada778cda9effaddb&mpshare=1&scene=24&srcid=&sharer_sharetime=1583715893515&sharer_shareid=9b75eb39a20dc3c7646f221450aa88c0&key=10b5f81a683662236b478724173ce44e2db185962663f5e7753584a39f64778b671ea8eea067460a9eb076369392f7e2200c15346b5b243a433587827b1d150f8db31ff0141255e10517c8c7da18ee72c88c723cb6b33bbbbaa1da7104ba90243127b8f4c20297abe25c81ddf5063b95751db19f3f305449ed1139510302d6e8&ascene=14&uin=MjUzMjM4MTgyOQ%3D%3D&devicetype=Windows+8+x64&version=62090529&lang=zh_CN&exportkey=A%2FK%2FcDDWdoX9FRBU3HKXl9M%3D&pass_ticket=ktxmAwcxinuhEbyg2Z9n6EIP76D7BiGN44j6HloLSSIjfqa5xaD5a7Qw1dgHdgeX&wx_header=0)
 > - [一文读懂 TypeScript 泛型及应用](https://juejin.im/post/6844904184894980104)
 > - [使用SVG加载动画](https://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650593456&idx=1&sn=a87169625d369c3879273ebfd4a4593f&chksm=8891c894bfe64182a22bf124f8f6cb0222c3b251f83033f3360078f5a70325b44ecbbb66aa65&scene=126&sessionid=1600696483&key=10b5f81a6836622384ef15d693fdda26dbe2187d726a1c8cff245e461a265cc2598ec432823477fff3bcbedfd771dbc8b14b2d113543e52367c4228cd1ab0226c859d398b282d4776f92905483ee0f79b288cfbbfb07ac9998d721d032faadfa0dc9dc4388bcd63c8a30a5f453c440150c5e03b8df38e8f8bca246af9e9543fe&ascene=1&uin=MjUzMjM4MTgyOQ%3D%3D&devicetype=Windows+8+x64&version=62090529&lang=zh_CN&exportkey=A7tRtmMwuxi85P7yT7EK9hM%3D&pass_ticket=UDCXxLLQbil6zdoySyBk1rHBTt5StkgBMsrHOWIL1i2x%2Fnz390UdZ%2FsqyxW07NAF&wx_header=0)
+> - [js常见概念](https://github.com/stephentian/33-js-concepts)
+
 
 > **运维**/后端
 >
