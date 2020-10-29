@@ -32,6 +32,7 @@
 > - [使用SVG加载动画](https://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650593456&idx=1&sn=a87169625d369c3879273ebfd4a4593f&chksm=8891c894bfe64182a22bf124f8f6cb0222c3b251f83033f3360078f5a70325b44ecbbb66aa65&scene=126&sessionid=1600696483&key=10b5f81a6836622384ef15d693fdda26dbe2187d726a1c8cff245e461a265cc2598ec432823477fff3bcbedfd771dbc8b14b2d113543e52367c4228cd1ab0226c859d398b282d4776f92905483ee0f79b288cfbbfb07ac9998d721d032faadfa0dc9dc4388bcd63c8a30a5f453c440150c5e03b8df38e8f8bca246af9e9543fe&ascene=1&uin=MjUzMjM4MTgyOQ%3D%3D&devicetype=Windows+8+x64&version=62090529&lang=zh_CN&exportkey=A7tRtmMwuxi85P7yT7EK9hM%3D&pass_ticket=UDCXxLLQbil6zdoySyBk1rHBTt5StkgBMsrHOWIL1i2x%2Fnz390UdZ%2FsqyxW07NAF&wx_header=0)
 > - [js常见概念](https://github.com/stephentian/33-js-concepts)
 > - [GrapgQL入门](https://chinese.freecodecamp.org/news/a-detailed-guide-to-graphql/)
+> - [前端状态管理设计](https://cdc.tencent.com/2020/05/22/frontend-state-management-research/)
 
 > **运维**/后端
 >
