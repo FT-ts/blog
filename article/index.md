@@ -33,6 +33,7 @@
 > - [js常见概念](https://github.com/stephentian/33-js-concepts)
 > - [GrapgQL入门](https://chinese.freecodecamp.org/news/a-detailed-guide-to-graphql/)
 > - [前端状态管理设计](https://cdc.tencent.com/2020/05/22/frontend-state-management-research/)
+> - [Vdom前世今生](https://zhuanlan.zhihu.com/p/35876032)
 
 > **运维**/后端
 >

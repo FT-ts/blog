@@ -3,9 +3,8 @@
 > **前端**
 >
 > - [simple-virtual-dom](https://github.com/livoras/simple-virtual-dom)
->
+> - [vue-diff核心：snabbdom](https://github.com/snabbdom/snabbdom)
 > - [Node实践规范](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.chinese.md)
->
 > - [Node中文资料导航](https://github.com/youyudehexie/node123)
 > - [Airbnb js/style Guide](https://github.com/airbnb/javascript)
 > - [electron/vue-qq音乐](https://github.com/SmallRuralDog/electron-vue-music)
