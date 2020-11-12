@@ -34,6 +34,9 @@
 > - [GrapgQL入门](https://chinese.freecodecamp.org/news/a-detailed-guide-to-graphql/)
 > - [前端状态管理设计](https://cdc.tencent.com/2020/05/22/frontend-state-management-research/)
 > - [Vdom前世今生](https://zhuanlan.zhihu.com/p/35876032)
+> - [React生命周期图](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
+> - [Hooks 实用指南](https://github.com/monsterooo/blog/issues/28)
+> - [useMemo-useCallback指南](https://github.com/monsterooo/blog/issues/37)
 
 > **运维**/后端
 >
